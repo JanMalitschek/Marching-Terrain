@@ -1,0 +1,16 @@
+{
+  "name": "com.jamathan.marchingterrain",
+  "version": "0.1.0",
+  "displayName": "Marching Terrain",
+  "description": "An alternative for the Unity Terrain system which allows for advanced terrains with overhands and caves.",
+  "unity": "2019.1",
+  "keywords": [
+    "modelling",
+    "terrain"
+  ],
+  "author": {
+    "name": "Jamathan",
+    "url": "https://twitter.com/malitschek"
+  },
+  "type": "tool"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "jamathan.marchingterrain.Editor",
+    "references": [
+        "GUID:4ff77ed0a6a114c4f8eb488df21be591"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
